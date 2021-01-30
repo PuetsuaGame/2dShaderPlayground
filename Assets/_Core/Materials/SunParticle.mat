@@ -77,7 +77,7 @@ Material:
     - PixelSnap: 0
     - Vector1_F54BB4F7: 5
     - _AlphaClip: 1
-    - _Blend: 0
+    - _Blend: 2
     - _BlendOp: 0
     - _BumpScale: 1
     - _CameraFadingEnabled: 0
@@ -85,13 +85,13 @@ Material:
     - _CameraNearFadeDistance: 1
     - _ColorMode: 0
     - _Cull: 2
-    - _Cutoff: 0
+    - _Cutoff: 0.1
     - _DetailNormalMapScale: 1
     - _DistortionBlend: 0.5
     - _DistortionEnabled: 0
     - _DistortionStrength: 1
     - _DistortionStrengthScaled: 0
-    - _DstBlend: 10
+    - _DstBlend: 1
     - _EmissionEnabled: 0
     - _EnableExternalAlpha: 0
     - _FlipbookBlending: 0
@@ -117,7 +117,7 @@ Material:
     - _ZWrite: 0
     m_Colors:
     - Vector2_27F47E81: {r: 2, g: 2, b: 0, a: 0}
-    - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
+    - _BaseColor: {r: 0.18867922, g: 0.087252595, b: 0.027589884, a: 1}
     - _BaseColorAddSubDiff: {r: -1, g: 1, b: 0, a: 0}
     - _CameraFadeParams: {r: 0, g: Infinity, b: 0, a: 0}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
